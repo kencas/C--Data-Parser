@@ -1,0 +1,16 @@
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+C:\Projects\BtoBet_Test\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+C:\Projects\BtoBet_Test\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache

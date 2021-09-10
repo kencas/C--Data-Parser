@@ -1,0 +1,16 @@
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.csproj.AssemblyReference.cache
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.AssemblyInfoInputs.cache
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.AssemblyInfo.cs
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.csproj.CoreCompileInputs.cache
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\Data.Driven.exe
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\Data.Driven.deps.json
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\Data.Driven.runtimeconfig.json
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\Data.Driven.runtimeconfig.dev.json
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\Data.Driven.dll
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\ref\Data.Driven.dll
+C:\Projects\BtoBet_Test\Data.Driven\bin\Debug\net5.0\Data.Driven.pdb
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.dll
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\ref\Data.Driven.dll
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.pdb
+C:\Projects\BtoBet_Test\Data.Driven\obj\Debug\net5.0\Data.Driven.genruntimeconfig.cache

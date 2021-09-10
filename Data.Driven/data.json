@@ -1,0 +1,49 @@
+[
+    {
+        "name": "Dog",
+        "sound": "bark"
+    },
+    {
+        "name": "Cow",
+        "sound": "boo"
+    }
+    ,
+    {
+        "name": "Cat",
+        "sound": "meows"
+    },
+    {
+        "name": "Bat",
+        "sound": "screech"
+    },
+    {
+        "name": "Chicken",
+        "sound": "screech"
+    },
+    {
+        "name": "Crab",
+        "sound": "chirp"
+    },
+    {
+        "name": "Duck",
+        "sound": "quack"
+    },
+    {
+        "name": "Elephant",
+        "sound": "trumpet"
+    },
+    {
+        "name": "Fly",
+        "sound": "buzz"
+    },
+    {
+        "name": "Frog",
+        "sound": "croak"
+    }
+    ,
+    {
+        "name": "Grasshopper",
+        "sound": "chirp"
+    }
+    
+]
